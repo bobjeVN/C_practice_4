@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main(SetConsoleOutputCP(CP_UTF8);
+int main(SetConsoleOutputCP(CP_UTF8)
 
 void task1(int *num, int size) {
     int min, temp;
